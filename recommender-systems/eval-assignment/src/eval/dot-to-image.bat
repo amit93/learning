@@ -1,0 +1,1 @@
+dot -Tpng "C:\Users\p0c\git\eval-assignment\target\analysis\graph.dot" -o "C:\Users\p0c\git\eval-assignment\target\analysis\output.png"
